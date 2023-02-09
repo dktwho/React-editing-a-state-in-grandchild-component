@@ -1,3 +1,8 @@
+# Содержание
+
+1. Родительский компонент Products, дочерний компонент Product - в нем компонет ProductField с логикой по изменению значений в компоненте Products.
+2. Редактирование стейта в внучатом компоненте.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
